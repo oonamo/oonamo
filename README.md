@@ -5,7 +5,7 @@
 - Low level languages
 - Embedded Systems
 - General Programming
-- Neovim
+- Digital and Analog Circuits
 
 ### Interesting Projects
 - [creal](https://github.com/oonamo/creal), A *static* testing program that uses files for testing things that should never change.
